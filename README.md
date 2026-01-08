@@ -2,6 +2,28 @@
 
 A Flutter application for managing and resolving support tickets with a clean, modern interface built with Material Design 3.
 
+## 📱 Screenshots
+
+### Login Screen
+
+![Login](assets/screenshots/login.jpeg)
+
+### Tickets List
+
+![Tickets](assets/screenshots/tickets.jpeg)
+
+### Ticket Detail
+
+![Ticket Detail](assets/screenshots/ticket-detail.jpeg)
+
+### Profile
+
+![Profile](assets/screenshots/profile.jpeg)
+
+## 📥 Download
+
+Download the latest APK: [ticket_app.apk](assets/ticket_app.apk)
+
 ## 📱 Features Implemented
 
 ### ✅ Mandatory Requirements
@@ -209,16 +231,6 @@ Each post object is treated as a ticket with:
 - **Error handling** with retry mechanisms
 - **Loading states** for better feedback
 
-## 📱 Screenshots
-
-The app includes:
-
-1. **Login Screen**: Clean authentication form with validation
-2. **Tickets List**: Card-based layout with status indicators and filtering
-3. **Ticket Details**: Full ticket view with resolve functionality
-4. **Profile Screen**: User info, theme selector, and logout
-5. **Dark Mode**: Complete dark theme support
-
 ## 🧪 Testing
 
 Run tests:
@@ -298,7 +310,9 @@ This project is created as a take-home test for Flutter Developer position.
 
 ## 📧 Contact
 
-For any questions or clarifications, please reach out to the development team.
+**Developer Email:** odhiamboedu123@gmail.com
+
+**GitHub Repository:** [https://github.com/Edwin254-byte/ticket-tracker](https://github.com/Edwin254-byte/ticket-tracker)
 
 ---
 
