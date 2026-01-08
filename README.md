@@ -6,19 +6,19 @@ A Flutter application for managing and resolving support tickets with a clean, m
 
 ### Login Screen
 
-![Login](assets/screenshots/login.jpeg)
+<img src="assets/screenshots/login.jpeg" width="300" alt="Login Screen">
 
 ### Tickets List
 
-![Tickets](assets/screenshots/tickets.jpeg)
+<img src="assets/screenshots/tickets.jpeg" width="300" alt="Tickets List">
 
 ### Ticket Detail
 
-![Ticket Detail](assets/screenshots/ticket-detail.jpeg)
+<img src="assets/screenshots/ticket-detail.jpeg" width="300" alt="Ticket Detail">
 
 ### Profile
 
-![Profile](assets/screenshots/profile.jpeg)
+<img src="assets/screenshots/profile.jpeg" width="300" alt="Profile Screen">
 
 ## 📥 Download
 
