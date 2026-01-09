@@ -22,7 +22,7 @@ A Flutter application for managing and resolving support tickets with a clean, m
 
 ## 📥 Download
 
-Download the latest APK: [ticket_app.apk](assets/ticket_app.apk)
+Download the latest APK from the release section.
 
 ## 📱 Features Implemented
 
